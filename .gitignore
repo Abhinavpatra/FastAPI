@@ -8,6 +8,7 @@ __pycache__/
 .Python
 env/
 venv/
+blog-venv
 bin/
 lib/
 include/
