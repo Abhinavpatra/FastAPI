@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn
+
+sqlmodel
+
+
+SQLAlchemy
+psycopg2-binary 
+
+python-dotenv
