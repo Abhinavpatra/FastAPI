@@ -2,11 +2,10 @@ from fastapi import Depends, FastAPI
 from sqlalchemy.orm import Session
 import models
 from schemas import schema
-from databse import SessionLocal, engine
+from database import SessionLocal, engine
+
 
 app = FastAPI()
-
-
 
 
 def get_db():
