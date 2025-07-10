@@ -22,7 +22,7 @@ def func(request: Blog):
 @app.get('/') 
 def any_name():
     return {"data":{
-        "message": "hello from /"
+        "message": "hello from just /"
         }
     }
 # def second is treated as a separate function entirely.
