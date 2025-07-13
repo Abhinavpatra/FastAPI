@@ -33,9 +33,6 @@ def second():
         }
     }
 
-
-
-
 @app.get('/about')
 def func():
     return {
